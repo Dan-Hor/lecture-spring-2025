@@ -1,1 +1,2 @@
-# lecture-spring-2025
+# Lecture Spring 2025
+This is a test
