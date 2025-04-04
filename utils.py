@@ -1,7 +1,7 @@
 import datetime
 
-
-def is_valid_date(date_string):
+# Added a extra variebel to make the unit test fail 
+def is_valid_date(date_string, extra):
     """
     Checks if a date is valid in the format "yyyy-mm-dd".
 
